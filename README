@@ -5,10 +5,10 @@ After a git command is executed if a new achievement is unlocked
 git-achievements will display a message on the console for your enjoyment:
 
 ********************************************************************************
-                            Git Achievement Unlocked!                            
+                            Git Achievement Unlocked!
 
-                                    Caretaker                                    
-                    Added a .gitignore file to a repository.                    
+                                    Caretaker
+                    Added a .gitignore file to a repository.
 ********************************************************************************
 
 
@@ -25,6 +25,8 @@ If you are viewing a forked version of git-achievements you want to replace icef
 with the github user account you want to see like so:
 
 http://<username>.github.com/git-achievements
+
+--> http://bionix.github.com/git-achievements <--
 
 To push your achievements to GitHub first fork the project on GitHub,
 clone *your* repository and set the following config to true:
